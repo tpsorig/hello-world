@@ -1,3 +1,3 @@
 # hello-world
-this is accounts init repo
-line edit #1
+this is the accounts init repo
+line edit #2
